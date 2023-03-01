@@ -1,2 +1,1 @@
-# scanApp
-# scanApp
+# scanBarcodeApp
